@@ -1,0 +1,13 @@
+/* HPFT config options */
+
+#cmakedefine HPFT_BRANCH
+
+#cmakedefine HPFT_COMMIT
+
+#cmakedefine HPFT_USE_FFTE
+
+#cmakedefine HPFT_USE_FFTW
+
+#cmakedefine HPFT_USE_HEFFTE
+
+#cmakedefine HPFT_USE_P3DFFT3
